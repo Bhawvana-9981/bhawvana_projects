@@ -10,6 +10,10 @@ By separating these functionalities and leveraging a centralized database, the a
 
 Here are the output images:
 
+
+<img width="917" alt="image" src="https://github.com/Bhawvana-9981/bhawvana_projects/assets/173415767/beff1e19-79a1-487b-869b-bbe2f2fae5d7">
+
+
 <img width="574" alt="Customer_Products" src="https://github.com/Bhawvana-9981/bhawvana_projects/assets/173415767/e165f554-e4c8-415f-a62d-561791f52a53">
 
 
