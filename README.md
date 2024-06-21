@@ -10,14 +10,11 @@ By separating these functionalities and leveraging a centralized database, the a
 
 Here are the output images:
 
+<img width="574" alt="Customer_Products" src="https://github.com/Bhawvana-9981/bhawvana_projects/assets/173415767/e165f554-e4c8-415f-a62d-561791f52a53">
 
 
 
-
-
-
-
-
+<img width="533" alt="Add_Products" src="https://github.com/Bhawvana-9981/bhawvana_projects/assets/173415767/1e5eda0d-222d-4dc0-9bdb-4562af60b6b6">
 
 
 
