@@ -1,4 +1,4 @@
-# bhawvana_projects
+# Grocery Store Management
 
 I have developed a comprehensive grocery store application featuring two distinct interfaces to enhance user experience and streamline product management. All data is securely stored in a robust database, ensuring consistency and reliability.
 
